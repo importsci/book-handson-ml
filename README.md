@@ -33,7 +33,7 @@ Este repositório está sob a licença MIT, promovendo a livre distribuição e 
 ## Contato
 Se tiver dúvidas, sugestões, entre em contato conosco através das issues do repositório.
 
-Caso tenha interesse em se envolver mais ativamente no Import Sci acesse nosso [site](importsci.com)
+Caso tenha interesse em se envolver mais ativamente no Import Sci acesse nosso [site](https://www.importsci.com/sobre)
 
 ## Referências
 

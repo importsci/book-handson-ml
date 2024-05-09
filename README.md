@@ -17,8 +17,8 @@ O livro está dispnível em [inglês](https://www.amazon.com/Hands-Machine-Learn
 O repositório foi estruturado por capítulos do livro, que separa os conceitos e técnicas de machine learning de maneira progressiva e prática. Cada notebook no diretório */notebooks* corresponde a um capítulo do livro:
 
 **Parte 1 - Os fundamentos do Machine Learning**
-- Capítulo 1 - Machine Learning Landscape
-- Capítulo 2 - Projeto de Machine Learning End-to-End
+- Capítulo 1 - Machine Learning Landscape (Em breve)
+- [Capítulo 2 - Projeto de Machine Learning End-to-End](notebooks/02_projeto_ml_end_to_end.ipynb)
 
 **Parte 2 - Redes Neurais e Deep Learning**
 - Capítulo X - Em breve...
